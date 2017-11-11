@@ -1,0 +1,26 @@
+body{
+	background:url("main.jpg");
+	background-size:300%;
+}
+
+h1{
+	color:gold+9;
+	text-align: center;
+}
+h2{
+	color:white;
+	text-align: center;
+}
+h3{
+	color:white;
+	text-align: center;
+}
+li{
+	color:white;
+	text-align: center;
+}
+ul{
+	color:white;
+	text-align: center;
+}
+
